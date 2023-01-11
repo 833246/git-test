@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0a8b83a-40b6-4014-85ec-cb666b93afa9" name="Changes" comment="first commit">
+    <list default="true" id="c0a8b83a-40b6-4014-85ec-cb666b93afa9" name="Changes" comment="second commit">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/yanggu/git/GitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yanggu/git/GitTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +34,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "D:/developer_tools/workspace_idea/git-test",
     "settings.editor.selected.configurable": "fileTemplates"
@@ -47,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673445151517</updated>
-      <workItem from="1673445153940" duration="1526000" />
+      <workItem from="1673445153940" duration="1834000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1673446136875</created>
@@ -56,7 +57,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673446136875</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first commit">
+      <created>1673446796906</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673446796906</updated>
+    </task>
+    <task id="LOCAL-00003" summary="second commit">
+      <created>1673446968607</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673446968607</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,7 +90,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
