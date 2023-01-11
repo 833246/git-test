@@ -74,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673446968607</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="hot-fix commit">
+      <created>1673447515051</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673447515051</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,7 +101,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="second commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
+    <MESSAGE value="hot-fix commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="hot-fix commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
