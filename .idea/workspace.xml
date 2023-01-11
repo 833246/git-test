@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0a8b83a-40b6-4014-85ec-cb666b93afa9" name="Changes" comment="master commit2" />
+    <list default="true" id="c0a8b83a-40b6-4014-85ec-cb666b93afa9" name="Changes" comment="push commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yanggu/git/GitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yanggu/git/GitTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673447515051</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="push commit">
+      <created>1673448537905</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673448537905</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,7 +112,8 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="second commit" />
     <MESSAGE value="hot-fix commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="hot-fix commit" />
+    <MESSAGE value="push commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="push commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
